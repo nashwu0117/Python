@@ -1,0 +1,1 @@
+print('{n}你的第{c}次物理考試成績是{s}'.format(n='Nash',c = 1,s = 90))

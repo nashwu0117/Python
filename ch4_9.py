@@ -1,0 +1,5 @@
+print('姓名     國文 英文 總分')
+print('%2s %4d %4d %4d'%('python ', 98,90,188))
+print('%3s %4d %4d %4d'%('python1', 96,95,191))
+print('%3s %4d %4d %4d'%('python2', 92,88,180))
+print('%3s %4d %4d %4d'%('python3', 93,97,190))
